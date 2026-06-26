@@ -4,7 +4,7 @@ import { Input } from '@/components/ui/input'
 import { Button } from '@/components/ui/button'
 import { Card } from '@/components/ui/card'
 import { Badge } from '@/components/ui/badge'
-import { Search, Plus, MapPin, Phone, Mail, MoreVertical, Edit, Trash2 } from 'lucide-react'
+import { Search, Plus, MapPin, Phone, Mail, MoreVertical, Edit, Trash2, Users } from 'lucide-react'
 import {
   Sheet,
   SheetContent,
